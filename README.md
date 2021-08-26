@@ -7,3 +7,5 @@ Inspired by the game VALORANT
 Download all the files and put them in the same folder
 
 run the launchGame.bat file to start the game
+
+if the game freezes press esc to exit and run the game again.
