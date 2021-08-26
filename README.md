@@ -8,4 +8,6 @@ Download all the files and put them in the same folder
 
 run the launchGame.bat file to start the game
 
+if nothing happens, try download Java SE at https://www.oracle.com/ca-en/java/technologies/javase-downloads.html and try again.
+
 if the game freezes press esc to exit and run the game again.
