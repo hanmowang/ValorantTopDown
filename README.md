@@ -1,5 +1,5 @@
 
-# Valorant inspired topdown shooter with infinite enemy spawner
+# Valorant inspired top down shooter with infinite spawner
 
 This is the first game I made
 
