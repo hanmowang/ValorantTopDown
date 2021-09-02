@@ -9,7 +9,7 @@ Inspired by the game VALORANT
 
 # How to launch the game
 
-Download the downloadme file
+Download the "download me" file
 
 run the launchGame.bat file to start the game
 
@@ -17,4 +17,5 @@ if nothing happens, try download Java SE [here](https://www.oracle.com/ca-en/jav
 
 if the game freezes press esc to exit and run the game again.
 
-Here is a demo of what the game looks like
+Here is a demo of what the game looks like:
+
