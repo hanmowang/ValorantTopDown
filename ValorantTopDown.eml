@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="res" value="project"/>
+		<level name="library" value="project"/>
+		<level name="res (2)" value="project"/>
+		<level name="res (3)" value="project"/>
+	</levels>
+</component>
