@@ -17,4 +17,4 @@ if nothing happens, try download Java SE [here](https://www.oracle.com/ca-en/jav
 
 if the game freezes press esc to exit and run the game again.
 
-[here is what the game looks like](https://www.youtube.com/watch?v=KjFFvAI7HWk)
+# [here is what the game looks like](https://www.youtube.com/watch?v=KjFFvAI7HWk)
