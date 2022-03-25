@@ -1,8 +1,6 @@
 
 # Valorant inspired top down shooter with infinite spawner
 
-This is the first game I made
-
 Combined the two guides ([Wizard top down shooter series](https://www.youtube.com/watch?v=e9jRfgjV4FQ&t=1s) and [Let's build a game series](https://www.youtube.com/watch?v=1gir2R7G9ws&t=1s)) from RealTutsGML on YouTube.
 
 Inspired by the game VALORANT
